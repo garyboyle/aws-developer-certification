@@ -9,7 +9,7 @@ const {
 const REGION = "eu-west-1";
 
 // Set the bucket parameters
-const bucketName = "shayoo-bucket1";
+const bucketName = "shayoo-bucket";
 const bucketParams = { Bucket: bucketName };
 
 // Create name for uploaded object key
