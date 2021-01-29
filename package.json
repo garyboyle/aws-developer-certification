@@ -19,6 +19,7 @@
   "dependencies": {
     "@aws-sdk/client-cognito-identity": "^3.3.0",
     "@aws-sdk/client-dynamodb": "^3.3.0",
+    "@aws-sdk/client-ec2": "^3.4.0",
     "@aws-sdk/client-iam": "^3.3.0",
     "@aws-sdk/client-polly": "^3.3.0",
     "@aws-sdk/client-s3": "^3.3.0",
